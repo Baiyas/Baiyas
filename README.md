@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋,My name is BAIYAS and I'm a Front-End React Developer, from India...
-  A creative Front-End Developer on a journey to shape the digital world with code and design. 
-  🌟 My passion lies in crafting visually stunning and user-friendly web applications, and I'm skilled in HTML, CSS, JavaScript, Reactjs.
+<h1 align="center">Hi 👋,My name is BAIYAS and I'm a Front-End React Developer, from India...<br>
+  A creative Front-End Developer on a journey to shape the digital world with code and design. <br>
+  <br>🌟 My passion lies in crafting visually stunning and user-friendly web applications, and I'm skilled in HTML, CSS, JavaScript, Reactjs.
   Join me as I explore the art of web development and create captivating online experiences. Let's code, learn, and innovate together!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
